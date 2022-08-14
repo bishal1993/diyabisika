@@ -1,0 +1,31 @@
+copy site key:6LfWVm4hAAAAAPth6gPyyZL6UgJ8tGk7ga-795qi
+copy secret key:6LfWVm4hAAAAAFxFLwDQlrBbe_gKG_JWnP4YiOph
+
+Saturday Goal:
+1.Contact form
+2. img in every link and website, folder subfolder ma babuko foto
+
+3. language settings like in bahn.de
+4.
+bootstrap and navigation and couple of videos in youtube learn.
+5. 
+
+
+Sunday Goal:
+ 
+ -->slider picture for blog(Lumbini, Waterfall, pokhara, paragliding, bunjy jumping,Rafting, Mountainiring, Tiger, One Horn Rhino, Yoga, Meditation, Mt.Everest) Automatic slid in blog --done
+1.in github host for free and send link to vinaju.
+language lai right side ma lanu xa
+
+log in, cart size, brand click to home website
+1.Webpackage, diff Js file read, learn,
+2. Sprint Website building, MVC pattern
+
+
+
+
+Nepali ma link website kholna milne.
+
+need to understand.
+
+toogable? pills? 

@@ -1,0 +1,1 @@
+console.log("running javascript for the first time in vs");

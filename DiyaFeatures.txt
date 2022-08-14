@@ -1,0 +1,41 @@
+1.like Db bahn red colour at bottom, and at the border, same with orange colour at 
+the border and background same colour, white like workwise, dbbahn etc
+2. footnoot, youtube, fb, twitter, instagram(tag that here you were),
+3. msnger contact api, language setting(German, Chinese, English, Japanese) at right side
+4.slide picture, gif rakhnu xa, 
+
+5.payment paypal, qr-code payment??? -->paxi garnu xa.
+
+vertical navbar, 
+produkt list(in German, English, Nepali, Chinese)
+
+DAO Database Birthday Discount,
+
+Dashain
+Tihar
+Bhaitika
+Rakhshabandhan 
+Motherday
+Fatherday
+Teacherday
+Valentinesday
+ src vs data-src ???
+
+bitbucket or git ??? repo anlegen
+<img data-listing-card-listing-image="" 
+data-src="https://i.etsystatic.com/16119277/r/il/f1dfa3/3551572525/il_680x540.3551572525_nrnp.jpg" 
+class="wt-width-full wt-height-full wt-display-block wt-position-absolute loaded" 
+alt="Caramel Pillow, Orange plaid pillow cover, Fall Pillows, Modern Farmhouse Throw Pillows, Plaid Pillow, Fall Throw Pillows" 
+loading="lazy" 
+src="https://i.etsystatic.com/16119277/r/il/f1dfa3/3551572525/il_680x540.3551572525_nrnp.jpg" 
+data-ll-status="loaded">
+
+
+<img data-lazyloaded="1" 
+src="https://mahaguthi.com.np/wp-content/uploads/2020/08/ceramic-water-jug-2-300x300.jpg"
+ width="300" height="300" 
+data-src="https://mahaguthi.com.np/wp-content/uploads/2020/08/ceramic-water-jug-2-300x300.jpg"
+ class="attachment-shop_catalog size-shop_catalog entered litespeed-loaded" alt="Ceramic Water Jug" 
+data-ll-status="loaded">
+
+Offers
